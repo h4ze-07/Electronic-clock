@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Tektur', cursive;
+}
+
+.container {
+    border: 1px solid #000;    
+    border-radius: 10px;
+    text-align: center;
+    width: 300px;
+    margin: 30px auto;
+    background-color: #000000c1;
+}
+
+.clock {
+    padding: 10px;
+    text-align: center;
+    color: red;
+    font-size: 50px;
+    font-weight: 500;
+}
